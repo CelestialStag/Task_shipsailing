@@ -1,5 +1,6 @@
 # Task_shipsailing
 Completed task for recruitment process. Created in Unity Engine v. 6000.5.11f1.  
+Game executable is in 'Game' folder.  
 
 SHIP STEERING  
 W, S - furl/unfurl the sail.  
