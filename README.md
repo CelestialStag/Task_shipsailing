@@ -1,5 +1,5 @@
 # Task_shipsailing
-Completed task for recruitment process.  
+Completed task for recruitment process. Created in Unity Engine v. 6000.5.11f1.  
 
 SHIP STEERING  
 W, S - furl/unfurl the sail.  
