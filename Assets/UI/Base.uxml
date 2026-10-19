@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Stylesheet.uss?fileID=7433441132597879392&amp;guid=1062c5bd04f62254dbe4fe31dfd43022&amp;type=3#Stylesheet" />
+    <ui:VisualElement style="flex-grow: 1; align-items: stretch; justify-content: flex-start;">
+        <ui:VisualElement name="Container" style="flex-grow: 0; flex-basis: 20%; flex-direction: row; align-items: flex-end; justify-content: space-around; align-self: auto;">
+            <ui:Label tabindex="-1" text="Sail openness" parse-escape-sequences="true" display-tooltip-when-elided="true" name="LabelSail" class="label" />
+            <ui:Label tabindex="-1" text="Sail rotation" parse-escape-sequences="true" display-tooltip-when-elided="true" name="LabelMast" class="label" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
